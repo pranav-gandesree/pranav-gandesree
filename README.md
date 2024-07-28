@@ -8,7 +8,7 @@ I'm a full stack developer...
 
 
 👩‍💻 I'm currently working on:  
-Serverless backends
+NextJs
 
 🧠 I'm currently learning:  
      MERN Stack
