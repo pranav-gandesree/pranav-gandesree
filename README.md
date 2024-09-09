@@ -39,3 +39,6 @@ JavaScript, React, Express, Node.js, Next.js, and blockchain development.
 I'm diving deep into Web3 development, learning about **Solana** and blockchain-based applications. I'm also continually working with **Next.js** to build fullstack applications that are fast, dynamic, and scalable.
 
 If you have any exciting projects or want to collaborate, feel free to reach out!
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranav-gandesree&show_icons=true&theme=radical)
+
