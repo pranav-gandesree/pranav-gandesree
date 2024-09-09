@@ -40,5 +40,10 @@ I'm diving deep into Web3 development, learning about **Solana** and blockchain-
 
 If you have any exciting projects or want to collaborate, feel free to reach out!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranav-gandesree&show_icons=true&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-gandesree&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+
 
