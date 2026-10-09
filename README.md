@@ -7,4 +7,4 @@ Iam currently focused on backend and system design, distributed systems and buil
 
 ## My current side project
 
-From the past week, im working on Framely which is a AI powered media sharing app.
+From the past week, im working on Framely which is an AI powered media sharing app.
